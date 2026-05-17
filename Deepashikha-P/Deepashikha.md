@@ -2,7 +2,7 @@
 <h><b>HELLOOOO THEREEEE</h></b>
 <br>
 <h1>intro</h1>
-so I am Deepashikha Pamnani from Mumbai,Maharashtra pursuing Mechanical engineeering in VNIT,Nagpur.
+so I am Deepashikha Pamnani from Mumbai,Maharashtra pursuing Mechanical engineering in VNIT,Nagpur.
 <br>
 <i>I ain't spending a day to think about a proper intro like i did last time cuz if it turns out too good you'll keep wondering what AI prompt I used. (well I never did.) </i>
 <br>
@@ -15,6 +15,7 @@ main task here is to explore the following features:-
   <li>GIFs</li>
   <li>links</li>
 </ul>
+so let's do that
 
 <b>you can skip the below part (someone just wanted to yap) </b>
 <h3>achievements ?</h3>
