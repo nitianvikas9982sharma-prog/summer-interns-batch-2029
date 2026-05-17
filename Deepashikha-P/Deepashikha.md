@@ -23,8 +23,11 @@ main task here is to explore the following features:-
 <br>
 
  <p><i>song recommendation:-</i></p>
+
  [enjoy](https://youtu.be/QDia3e12czc?si=xJx_iZpeHuhtspGe)
 
 <br>
+
 ![sorry if this was unprofessional](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV3eDducG44OWx0Y2ZjZXk5N2NzNWpoM2Fsamk0dnYyeHdvcDdwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3qIzgpZiysvSBaHsNf/giphy.gif)
+
 <br>
