@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # first task - Deepashikha
 <h><b>HELLOOOO THEREEEE</h></b>
 so I am Deepashikha Pamnani from Mumbai,Maharashtra pursuing Mechanical engineeering in VNIT,Nagpur.
@@ -37,3 +38,6 @@ main task here is to explore the following features:-
 
  
 >>>>>>> 4bd786bc6bcbda866c122f6dce1567997cf5aceb
+=======
+ 
+>>>>>>> 2899c7a923bdcb12c3ef1c8c2ec6bd7257b2809b
