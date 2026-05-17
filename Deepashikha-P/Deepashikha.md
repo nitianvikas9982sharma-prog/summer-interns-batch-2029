@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # first task - Deepashikha
 <h><b>HELLOOOO THEREEEE</h></b>
 so I am Deepashikha Pamnani from Mumbai,Maharashtra pursuing Mechanical engineeering in VNIT,Nagpur.
@@ -17,27 +15,7 @@ main task here is to explore the following features:-
   <li>links</li>
 </ul>
 
- 
-=======
-<h><b>HELLOOOO THEREEEE</h></b>
+<b>you can skip the below part (someone just wanted to yap) </b>
+<p>acheivements :- sadly, all my parents did was made me give SOF olympiads in school so its useless to mention that here. And who wants to talk about local dance competitions anyway so lets talk about first year instead. I was in 911 (hiphop club) for freshers. I went to INIT basketball(W). I was the only girl staying in Kalpana Chawla hostel for the whole winter vacation. I used to play songs on full vol in the hostel at like 6 am. It was all fun and games until one day the lights went off and I was in front of the washroom sink, with no torch. yeah.</p>
 <br>
-so I am Deepashikha Pamnani from Mumbai,Maharashtra pursuing Mechanical engineeering in VNIT,Nagpur.
-<br>
-<i>I aint spending a day to think about a proper intro like i did last time cuz if it turns out too good you'll keep wondering what AI prompt I used. (well I never did.) </i>
-<br>
-<br>
-main task here is to explore the following features:-
-<ul>
-  <li>headings</li>
-  <li>lists</li>
-  <li>tables</li>
-  <li>images</li>
-  <li>GIFs</li>
-  <li>links</li>
-</ul>
-
- 
->>>>>>> 4bd786bc6bcbda866c122f6dce1567997cf5aceb
-=======
- 
->>>>>>> 2899c7a923bdcb12c3ef1c8c2ec6bd7257b2809b
+since we had to add images
