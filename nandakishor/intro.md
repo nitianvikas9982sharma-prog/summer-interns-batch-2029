@@ -1,0 +1,3 @@
+Hello all, This is Nanda Kishor M, currently pursuing my Bachelor of Technology in Metallurgical and Materials Engineering from Visvesvaraya National Institute of Technology (VNIT), Nagpur. I am currently exploring different fields in robotics and electronics, and I am more oriented towards FPGA-related content and development. I enjoy learning about emerging technologies and continuously expanding my knowledge through hands-on projects and practical experiences.
+
+Currently, I am exploring different domains to discover my interests and strengthen my technical skills. I am enthusiastic about learning, collaborating with others, and contributing to meaningful projects in the fields of technology and innovation.
